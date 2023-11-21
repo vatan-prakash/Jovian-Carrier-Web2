@@ -6,13 +6,13 @@ JOBS =[
     'id':1,
     'title':'Data Scientist',
     'location': 'Benagaluru, India',
-    'salary': 'Rs 15,00,000'
+    'salary': 'Rs 10,00,000'
   },
   {
     'id':2,
     'title':'Full Stack Develoepr',
     'location': 'Benagaluru, India',
-    'salary': 'Rs 15,00,000'
+    'salary': 'Rs 19,00,000'
   },
   {
     'id':3,
